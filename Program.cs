@@ -29,7 +29,21 @@ namespace TextEditor
       }
     }
 
-    static void Open() { }
+    static void Open() {
+      Console.Clear();
+      Console.WriteLine("Qual caminho do arquivo?");
+      string path = Console.ReadLine();
+
+      using(var file = new StreamReader(path))
+      {
+        string text = file.ReadToEnd();
+        Console.WriteLine(text);
+      }
+
+      Console.WriteLine("");
+      Console.ReadLine();
+      Menu();
+    }
 
     static void Edit() {
       Console.Clear();
@@ -37,12 +51,12 @@ namespace TextEditor
       Console.WriteLine("---------------------");
       string text = "";
 
-      do
+      do //faça isso enq. o user não tecla esc
       {
         text += Console.ReadLine();
         text += Environment.NewLine;
       }
-      while(Console.ReadKey().Key != ConsoleKey.Escape);
+      while(Console.ReadKey().Key != ConsoleKey.Escape);//enq. a tecla é dif. do esc, ele armazena
       Salvar(text);
     }
 
@@ -55,6 +69,7 @@ namespace TextEditor
         file.WriteLine(text);
       }
       Console.WriteLine($"File {path} save with succes");
+      Console.ReadLine();
       Menu();
     }
   }
