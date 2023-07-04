@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henrr\\OneDrive\\Documentos\\www\\csharpBalta\\fundamentos\\05_textEditor\\05_textEditor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henrr\\OneDrive\\Documentos\\www\\csharpBalta\\fundamentos\\05_textEditor\\05_textEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henrr\\OneDrive\\Documentos\\www\\csharpBalta\\fundamentos\\05_textEditor\\05_textEditor.csproj",
+        "projectName": "05_textEditor",
+        "projectPath": "C:\\Users\\henrr\\OneDrive\\Documentos\\www\\csharpBalta\\fundamentos\\05_textEditor\\05_textEditor.csproj",
+        "packagesPath": "C:\\Users\\henrr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrr\\OneDrive\\Documentos\\www\\csharpBalta\\fundamentos\\05_textEditor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henrr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

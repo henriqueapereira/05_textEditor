@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\bin\Debug\net7.0\05_textEditor.exe
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\bin\Debug\net7.0\05_textEditor.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\bin\Debug\net7.0\05_textEditor.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\bin\Debug\net7.0\05_textEditor.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\bin\Debug\net7.0\05_textEditor.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\refint\05_textEditor.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\05_textEditor.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05_textEditor\obj\Debug\net7.0\ref\05_textEditor.dll
